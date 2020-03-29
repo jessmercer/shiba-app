@@ -1,0 +1,14 @@
+button {
+  margin: 0 10px;
+}
+
+.shiba-images {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px 0;
+}
+
+.shiba-images img {
+  max-width: 200px;
+  margin: 10px;
+}

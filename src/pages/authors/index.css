@@ -1,0 +1,34 @@
+button {
+  margin: 0 0 20px;
+}
+
+.author-image {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.author-image img {
+  max-width: 500px;
+  margin: 10px auto 20px;
+}
+
+.author-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.author-list__item {
+  flex: 1 20%;
+  margin: 0 10px 40px;
+}
+
+.author-list__item div {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.page-3 button {
+  margin-right: 20px;
+}
